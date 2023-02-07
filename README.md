@@ -1,1 +1,4 @@
-### Next.js 13 project IMDB Clone
+### IMDB Clone
+
+## Next.js 13
+## Tailwind CSS
